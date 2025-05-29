@@ -17,7 +17,12 @@
   - `medium`：標準難度
   - `hard`：地圖大、車速快
     
-
+* 在開始時使用輸入選擇難度，有三種難度可以選，easy高度為10，medium高度為20，hard高度為30。同時車子速度也會加快。
+<img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20185413.png" width="300"/><br>
+* 使用方向鍵來操控代表青蛙的F，躲過代表車子的C。O則代表障礙物，車子可以穿越但是青蛙會被阻擋。<br>
+<img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20185849.png"/><br>
+* 當青蛙與車子相撞(位置重疊)，會在原地生成X，並且結束遊戲。按enter可以重新開始遊戲，esc則跳出遊戲<br>
+<img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20190225.png" width="300"/><br>
 ---
 
 ##  專案架構
