@@ -23,19 +23,21 @@
 <img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20185849.png"/><br>
 * 當青蛙與車子相撞(位置重疊)，會在原地生成X，並且結束遊戲。按enter可以重新開始遊戲，esc則跳出遊戲<br>
 <img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20190225.png" width="300"/><br>
+* 當成功操控青蛙到最上端時，跳出遊戲並且顯示成功，同時顯示到達頂端的用時和目前最快成績。如果比之前成績快，則顯示突破紀錄，並且記錄最好成績。<br>
+<img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20190435.png" width="300"/><br>
 ---
 
 ##  專案架構
-frog_game/
-├── CMakeLists.txt
-├── main.cpp
-├── src/
-│ ├── Map.cpp
-│ ├── Car.cpp
-│ ├── Frog.cpp
-├── include/
-│ ├── Map.h
-│ ├── Car.h
-│ ├── Frog.h
+-frog_game/
+-├── CMakeLists.txt
+-├── main.cpp
+-├── src/
+-│ ├── Map.cpp
+-│ ├── Car.cpp
+-│ ├── Frog.cpp
+-├── include/
+-│ ├── Map.h
+-│ ├── Car.h
+-│ ├── Frog.h
 
 
