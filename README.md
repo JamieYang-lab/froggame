@@ -21,7 +21,7 @@
 | hard   | 30       | 100ms                |
 
     
-* 在開始時使用輸入選擇難度，有三種難度可以選，easy高度為10，medium高度為20，hard高度為30。同時車子速度也會加快。
+* 在開始時使用輸入選擇難度，有三種難度可以選，easy高度為10，medium高度為20，hard高度為30。同時車子速度也會加快。<br>
 <img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20185413.png" width="300"/><br>
 * 使用方向鍵來操控代表青蛙的F，躲過代表車子的C。O則代表障礙物，車子可以穿越但是青蛙會被阻擋。<br>
 <img src="https://github.com/JamieYang-lab/froggame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-28%20185849.png"/><br>
