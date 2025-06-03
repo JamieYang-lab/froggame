@@ -34,7 +34,7 @@
 ##  專案架構
 frog_game/<br>
 ├── CMakeLists.txt<br>
-├── main.cpp<br>
+├── frog_game.cpp<br>
 ├── Map/<br>
 │ ├── Map.h<br>
 │ ├── Map.cpp<br>
@@ -44,7 +44,7 @@ frog_game/<br>
 │ ├── car.h<br>
 │ ├── car.cpp<br>
 
-## 🛠 編譯與執行（CMake + Visual Studio Code）
+##  編譯與執行（CMake + Visual Studio Code）
 
 ###  安裝需求
 
